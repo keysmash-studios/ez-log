@@ -1,0 +1,23 @@
+{
+	"name": "ez-log",
+	"version": "1.0.0",
+	"description": "A node module to easily produce log messages",
+	"main": "index.js",
+	"scripts": {
+		"test": "echo \"Error: no test specified\" && exit 1"
+	},
+	"repository": {
+		"type": "git",
+		"url": "git+https://github.com/keysmash-studios/ez-log.git"
+	},
+	"keywords": ["log", "logs", "logger", "logging"],
+	"author": "Keysmash Studios",
+	"license": "GPL-3.0-or-later",
+	"bugs": {
+		"url": "https://github.com/keysmash-studios/ez-log/issues"
+	},
+	"homepage": "https://github.com/keysmash-studios/ez-log#readme",
+	"dependencies": {
+		"colors": "^1.4.0"
+	}
+}
